@@ -1,0 +1,5 @@
+{
+  "main": ["youtube_dl"], 
+  "custom":["minecraft_options"],
+  "requests":[]
+}
