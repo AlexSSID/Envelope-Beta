@@ -3,14 +3,14 @@
 		{
 			"youtube_dl": {
 				"name": "Youtube Downloder",
-				"descriptiom": "Tool that can download videos from Youtube",
+				"description": "Tool that can download videos from Youtube",
 				"icon_flet": "ft.icons.PLAY_ARROW",
 				"custom_icon": null,
 				"version": "1.0.0"
 			},
 			"youtube_dl": {
 				"name": "Youtube Downloder2",
-				"descriptiom": "Tool that can download videos from Youtube",
+				"description": "Tool that can download videos from Youtube",
 				"icon_flet": "ft.icons.PLAY_ARROW",
 				"custom_icon": null,
 				"version": "1.0.0"
@@ -21,7 +21,7 @@
 		{
 			"minecraft_options": {
 				"name": "Minecraft save/load",
-				"descriptiom": "Tool that can download videos from Youtube",
+				"description": "Tool that can download videos from Youtube",
 				"icon_flet": "ft.icons.VIEW_AGENDA",
 				"custom_icon": null,
 				"version": "1.0.0"
