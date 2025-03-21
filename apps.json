@@ -21,7 +21,7 @@
 		{
 			"minecraft_options": {
 				"name": "Minecraft save/load",
-				"description": "Tool that can download videos from Youtube",
+				"description": "Tool that can download videos from options",
 				"icon_flet": "ft.icons.VIEW_AGENDA",
 				"custom_icon": null,
 				"version": "1.0.0"
