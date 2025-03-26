@@ -10,7 +10,7 @@
       }
     },
     {
-      "music_downloader": {
+      "music_downloader2": {
         "name": "Music Downloder2",
         "description": "Tool that can download videos from Youtube",
         "icon_flet": "ft.icons.PLAY_ARROW",
@@ -30,5 +30,15 @@
       }
     }
   ],
-  "requests": []
+  "requests": [
+    {
+      "music_downloader": {
+        "name": "Minecraft save/load",
+        "description": "Tool that can download videos from options",
+        "icon_flet": "ft.icons.VIEW_AGENDA",
+        "custom_icon": null,
+        "version": "1.0.0"
+      }
+    }
+  ]
 }
