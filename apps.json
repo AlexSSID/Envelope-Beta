@@ -10,7 +10,7 @@
       }
     },
     {
-      "youtube_dl2": {
+      "music_downloader": {
         "name": "Music Downloder2",
         "description": "Tool that can download videos from Youtube",
         "icon_flet": "ft.icons.PLAY_ARROW",
